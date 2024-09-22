@@ -6,4 +6,8 @@ back to the repository on GitHub so the rest of our team can see them (this is "
 
 Make changes with the Web IDE!
 
+----------------------------------------------
+HI THIS IS MY EDIT :V :D
+----------------------------------------------
+
 Another remote commit was made that i want to fetch to my local repository and pull if there are no conflicts.
